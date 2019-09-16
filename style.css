@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(189, 230, 231);  
+    height: 100%;  
+}
+header{
+    background-color: rgb(31, 133, 146);
+}
+h1{
+   text-align: center;
+   font-family: 'Raleway', sans-serif;
+   text-decoration-color: black;
+   font-weight: bolder;
+}
+h3{
+    text-align: center;
+   font-family: 'Raleway', sans-serif;
+   text-decoration-color: black;
+}
+#input{
+ 
+ width: 300px;
+ height: 250px;
+ border:20px;
+ margin-top: 100px;
+ margin-bottom: 150px;
+ margin-right: auto;
+ margin-left: auto;
+ 
+}
+footer{
+    background-color: rgb(31, 133, 146);
+    font-family: 'Raleway', sans-serif;
+   text-decoration-color: black;
+   font-weight: bolder;
+}
+#icon{
+    float:left;
+}
